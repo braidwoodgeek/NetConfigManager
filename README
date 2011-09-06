@@ -1,0 +1,4 @@
+NetConfigManager
+
+The purpose of this tool is the automated management of network equipment configuration files, be they linux, cisco, hp, juniper or anything like that.
+It will use expect mostly.
